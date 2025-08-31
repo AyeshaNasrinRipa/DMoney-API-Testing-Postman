@@ -1,6 +1,6 @@
-# dmoney API Testing with Postman  
+# Dmoney API Testing with Postman  
 
-This repository provides the API testing suite for the **dmoney** application, developed and executed using **Postman**. It includes Postman collections, detailed test cases, and execution reports to verify that the application functions as expected.  
+This repository provides the API testing suite for the **Dmoney rest api** application, developed and executed using **Postman**. It includes Postman collections, detailed test cases, and execution reports to verify that the application functions as expected.  
 
 ---
 
