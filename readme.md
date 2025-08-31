@@ -32,10 +32,9 @@ The **dmoney API Testing** project is designed to validate the reliability, perf
 1. Clone the repository:  
    ```bash  
    git clone https://github.com/AyeshaNasrinRipa/DMoney-API-Testing-Postman.git  
-   cd dmoney-postman-tests  
    ```  
 
-2. Install dependencies:  
+2. Go inside the repository and install dependencies:  
    ```bash  
    npm install  
    ```  
