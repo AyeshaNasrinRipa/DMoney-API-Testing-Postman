@@ -1,0 +1,17 @@
+{
+  "name": "dmoneyapi-test-report-newman",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .\\report.js",
+    "test": "node .\\report.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "newman": "^6.2.1",
+    "newman-reporter-htmlextra": "^1.23.1"
+  }
+}
